@@ -1,6 +1,6 @@
 # Quizzer
 
-A simple quiz app made with Flutter
+A simple quiz app built with Flutter
 
 ## Getting Started
 
