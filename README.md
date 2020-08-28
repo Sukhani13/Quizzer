@@ -1,6 +1,6 @@
-# first_app
+# Quizzer
 
-A new Flutter project.
+A simple quiz app made with Flutter
 
 ## Getting Started
 
